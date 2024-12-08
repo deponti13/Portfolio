@@ -157,7 +157,7 @@ section.especialidades .flex{
     box-shadow: 0 0 8px #ba0dff66;
 }
 
-.especialidades .especialidades-box i{
+.especialidades .especialidades-box img{
     font-size: 70px;
     color: #FF0095;
 }
@@ -200,7 +200,7 @@ section.sobre .flex{
 
 .sobre .txt-sobre h2 span{
     color: #BA0DFF;
-    font-family: "Anton", sans-serif;
+
     display: block;
 }
 
@@ -410,6 +410,11 @@ footer .line-footer p a{
         display: none;
     }
 
+    .logo video{
+        width: 150px;
+        height: 150px;
+    }
+
     /*topo do site*/
     .topo-do-site .img-topo-site img{
         width: 80%;
@@ -437,10 +442,13 @@ footer .line-footer p a{
        
     }
 
-    .logo video{
-        width: 150px;
-        height: 150px;
+    .topo-do-site .video-topo-site video{
+        width: 300px;
+        height: 300px;
+        
     }
+
+  
 
     /*especialidade*/
 
@@ -453,7 +461,15 @@ footer .line-footer p a{
 
    .btn-social{
     text-align: center;
+    
    }
+
+   .img-sobre img{
+    width: 35mar0px;
+    height: 450px;
+    
+   
+}
 
    /*portfolio*/
 
