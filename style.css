@@ -58,7 +58,7 @@ header > .interface{
     justify-content: space-between;
 }
 
-.logo video{
+.logo img{
     width: 200px;
     height: 200px;
 }
